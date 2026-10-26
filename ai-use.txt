@@ -1,0 +1,15 @@
+I used ChatGPT to translate my wireframes into functioning .php files.  As per
+the assignment expectations, I informed it not to use any PHP code, but to focus
+solely on CSS and HTML.  As expected, some of what it created wasn't quite in-line
+with what I needed (as an example, instead of leaving space to link an image from 
+the images file, ChatGPT used CSS styling and HTML elements to create faux gift
+card images which I then had to delete and relace with my own images) so I went
+back through everything and readjusted wherever I saw fit.
+
+ChatGPT also went pretty elaborate with the CSS commands.  Fortunately, I was 
+able to recognize most of them thanks to my pretty extensive experience with 
+CSS from my undergraduate classes.  One thing that was interesting to note is 
+that this is the ChatGPT account I've been using for a long time, and it seems
+to have remembered my preferences from web applications I created in the past.
+E.g., each page has a Header (as opposed to a header.html file) which is something
+I used to use for my capstone project.
